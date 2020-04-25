@@ -87,13 +87,13 @@ h1::first-letter {
   object-fit: cover;
 }
 .slider__title { 
-  min-width: 740px;
+  width: 740px;
   color: #fff;
   text-transform: uppercase;
   position: absolute;
-  top: 210px;
+  top: 44.5%;
   left: 50%;
-  transform: translate(-50%, 0);
+  transform: translate(-50%, -50%);
 }
 .slider__title-big { 
 font-size: 60px;
@@ -109,9 +109,9 @@ margin-bottom: 28px;
 .slider__arrows { 
   width: 1110px;
   position: absolute;
-  top: 225px;
+  top: 46.5%;
   left: 50%;
-  transform: translate(-50%, 0);
+  transform: translate(-50%, -50%);
 }
 .slider__arrow { 
   width: 104px;
